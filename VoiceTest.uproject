@@ -20,6 +20,10 @@
 			"Enabled": false
 		},
 		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		},
+		{
 			"Name": "SteamAudio",
 			"Enabled": true
 		}
