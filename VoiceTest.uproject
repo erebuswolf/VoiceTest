@@ -12,19 +12,11 @@
 	],
 	"Plugins": [
 		{
-			"Name": "AdvancedSteamSessions",
-			"Enabled": false
-		},
-		{
-			"Name": "AdvancedSessions",
-			"Enabled": false
-		},
-		{
-			"Name": "OnlineSubsystemSteam",
+			"Name": "SteamAudio",
 			"Enabled": true
 		},
 		{
-			"Name": "SteamAudio",
+			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
 		}
 	]
